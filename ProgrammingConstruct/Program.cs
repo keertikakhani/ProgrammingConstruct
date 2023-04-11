@@ -6,11 +6,14 @@ namespace ProgrammingConstruct
     {
         public static void Main(string[] args)
         {
-            IfElse.Compare();
-            IfElse.Check();
-            IfElse.CheckElgibilty();
+            //IfElse.Compare();
+            //IfElse.Check();
+            //IfElse.CheckElgibilty();
 
-            Console.WriteLine();
+            IfElseifElse.LargestNumber();
+            IfElseifElse.FindElgibilty();
+
+            Console.ReadLine();
         }
     }
 }

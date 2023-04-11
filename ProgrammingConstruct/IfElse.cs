@@ -8,7 +8,7 @@ namespace ProgrammingConstruct
 {
     public class IfElse 
     {  
-        // checking two integers are equal or not using if-else statement
+        // 1. checking two integers are equal or not using if-else statement
         public static void Compare()
         {
               Console.WriteLine("enter an integer");
@@ -26,7 +26,7 @@ namespace ProgrammingConstruct
               }
         }
 
-        // checking a number is even or odd using if-else statement
+        // 2. checking a number is even or odd using if-else statement
 
         public static void Check()
         {
@@ -43,7 +43,7 @@ namespace ProgrammingConstruct
             }
         }
 
-        // checking whether a candidate is elgibile for vote or not using if-else statement
+        // 3. checking whether a candidate is elgibile for vote or not using if-else statement
 
         public static void CheckElgibilty()
         {
