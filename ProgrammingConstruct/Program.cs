@@ -16,6 +16,12 @@ namespace ProgrammingConstruct
             SwitchStatement.WeekDayName();
             SwitchStatement.ArithmaticOperations();
 
+            ForLoop.PowerOfTwo();
+            ForLoop.SumOfSquares();
+            ForLoop.FindFactorial();
+
+
+
             Console.ReadLine();
         }
     }
